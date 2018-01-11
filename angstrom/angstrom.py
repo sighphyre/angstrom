@@ -2,7 +2,7 @@ import sqlite3
 from os import path
 
 
-def _mobj(mapping, result_set):
+def mobj(mapping, result_set):
     rows = []
     for row in result_set:
         new_row = mapping.copy()
