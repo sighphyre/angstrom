@@ -1,0 +1,8 @@
+README.md
+setup.py
+angstrom/__init__.py
+angstrom/angstrom.py
+angstrom.egg-info/PKG-INFO
+angstrom.egg-info/SOURCES.txt
+angstrom.egg-info/dependency_links.txt
+angstrom.egg-info/top_level.txt
