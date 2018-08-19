@@ -1,3 +1,5 @@
 *.pyc
 build
 dist
+angstrom.egg-info
+Angstrom.egg-info
